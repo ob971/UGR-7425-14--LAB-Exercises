@@ -4,6 +4,7 @@ void main() {
   int second = 1;
   
   print('First $n numbers in the Fibonacci sequence:');
+
   
   for (int i = 0; i < n; i++) {
     print(first);
