@@ -3,5 +3,6 @@ void main() {
   String str = "Hello, World!";
 
   // Print the length of the string
+  
   print('The length of the string is: ${str.length}');
 }
