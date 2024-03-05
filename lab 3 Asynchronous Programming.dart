@@ -6,5 +6,6 @@ void main() {
   print('Fetching number...');
   fetchNumber().then((result) {
     print('Received number: $result');
+    
   });
 }
